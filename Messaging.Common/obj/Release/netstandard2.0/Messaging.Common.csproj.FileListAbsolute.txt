@@ -1,0 +1,9 @@
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\bin\Release\netstandard2.0\Messaging.Common.deps.json
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\bin\Release\netstandard2.0\Messaging.Common.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\bin\Release\netstandard2.0\Messaging.Common.pdb
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.csprojAssemblyReference.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.AssemblyInfoInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.AssemblyInfo.cs
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Common\obj\Release\netstandard2.0\Messaging.Common.pdb

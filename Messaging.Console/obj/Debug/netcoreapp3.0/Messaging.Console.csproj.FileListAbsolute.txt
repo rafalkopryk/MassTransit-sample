@@ -1,0 +1,15 @@
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp3.0\Messaging.Console.csprojAssemblyReference.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp3.0\Messaging.Console.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp3.0\Messaging.Console.AssemblyInfoInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp3.0\Messaging.Console.AssemblyInfo.cs
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\Messaging.Console.exe
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\GreenPipes.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\MassTransit.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\MassTransit.RabbitMqTransport.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\NewId.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\Messaging.Common.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp3.0\Messaging.Common.pdb
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp3.0\Messaging.Console.csproj.CopyComplete

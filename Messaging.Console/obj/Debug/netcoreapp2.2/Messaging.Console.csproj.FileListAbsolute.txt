@@ -1,0 +1,15 @@
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.csprojAssemblyReference.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.csproj.CoreCompileInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.AssemblyInfoInputs.cache
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.AssemblyInfo.cs
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Console.deps.json
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Console.runtimeconfig.json
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Console.runtimeconfig.dev.json
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Console.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Common.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Common.pdb
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.csproj.CopyComplete
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\Messaging.Console.pdb
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.dll
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\obj\Debug\netcoreapp2.2\Messaging.Console.pdb
+C:\Users\rafal\Desktop\projects\Messaging.Api\Messaging.Console\bin\Debug\netcoreapp2.2\appsettings.json
